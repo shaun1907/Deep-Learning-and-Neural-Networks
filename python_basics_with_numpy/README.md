@@ -1,1 +1,0 @@
-These codes are an attempt to try the machine learning concepts and apply the mostly used numpy library. 
